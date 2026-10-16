@@ -16,7 +16,7 @@ Calculator is my only project that is not made with Mobile First and RWD approac
 
 ### Links
 
-- Live Site URL: [HERE](https://radoslawlagan.github.io/Calculator-app/)
+- Live Site URL: [HERE](https://radoslawbilke.github.io/Calculator-app/)
 
 ## My process
 
